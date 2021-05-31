@@ -1,14 +1,8 @@
-//
-//  HomeWork_18Tests.swift
-//  HomeWork_18Tests
-//
-//  Created by Roman Kuzmich on 29.05.2021.
-//
-
 import XCTest
 @testable import HomeWork_18
 
 class HomeWork_18Tests: XCTestCase {
+    
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

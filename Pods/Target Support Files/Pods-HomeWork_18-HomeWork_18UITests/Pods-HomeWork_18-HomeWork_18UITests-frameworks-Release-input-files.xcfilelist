@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-HomeWork_18-HomeWork_18UITests/Pods-HomeWork_18-HomeWork_18UITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Nimble/Nimble.framework
+${BUILT_PRODUCTS_DIR}/Quick/Quick.framework
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
+${BUILT_PRODUCTS_DIR}/OHHTTPStubs/OHHTTPStubs.framework

@@ -1,0 +1,50 @@
+    {
+          "14:00": {
+            "temp": 22,
+            "windSpeed": 10,
+            "windDir": "SW",
+            "precipitation": "15%"
+          },
+          "15:00": {
+            "temp": 23,
+            "windSpeed": 10.5,
+            "windDir": "NW",
+            "precipitation": "17%"
+          },
+          "16:00": {
+            "temp": 22,
+            "windSpeed": 11,
+            "windDir": "NE",
+            "precipitation": "19%"
+          },
+          "17:00": {
+            "temp": 23,
+            "windSpeed": 12.9,
+            "windDir": "NW",
+            "precipitation": "22%"
+          },
+          "18:00": {
+            "temp": 20,
+            "windSpeed": 13,
+            "windDir": "NW",
+            "precipitation": "26%"
+          },
+          "19:00": {
+            "temp": 18,
+            "windSpeed": 13.6,
+            "windDir": "NE",
+            "precipitation": "50%"
+          },
+          "20:00": {
+            "temp": 17,
+            "windSpeed": 15,
+            "windDir": "NW",
+            "precipitation": "60%"
+          },
+          "21:00": {
+            "temp": 15,
+            "windSpeed": 20,
+            "windDir": "SE",
+            "precipitation": "100%"
+          }
+    }

@@ -1,0 +1,46 @@
+PODS:
+  - Nimble (9.2.0)
+  - OHHTTPStubs/Core (9.1.0)
+  - OHHTTPStubs/Default (9.1.0):
+    - OHHTTPStubs/Core
+    - OHHTTPStubs/JSON
+    - OHHTTPStubs/NSURLSession
+    - OHHTTPStubs/OHPathHelpers
+  - OHHTTPStubs/JSON (9.1.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/NSURLSession (9.1.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/OHPathHelpers (9.1.0)
+  - OHHTTPStubs/Swift (9.1.0):
+    - OHHTTPStubs/Default
+  - Quick (4.0.0)
+  - Realm (4.4.1):
+    - Realm/Headers (= 4.4.1)
+  - Realm/Headers (4.4.1)
+  - RealmSwift (4.4.1):
+    - Realm (= 4.4.1)
+
+DEPENDENCIES:
+  - Nimble
+  - OHHTTPStubs/Swift
+  - Quick
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - OHHTTPStubs
+    - Quick
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  Nimble: 4f4a345c80b503b3ea13606a4f98405974ee4d0b
+  OHHTTPStubs: 90eac6d8f2c18317baeca36698523dc67c513831
+  Quick: 6473349e43b9271a8d43839d9ba1c442ed1b7ac4
+  Realm: 4eb04d7487bd43c0581256f40b424eafb711deff
+  RealmSwift: 3eb8924ff7100df5928c7602f71d0fec51e7c9c5
+
+PODFILE CHECKSUM: e262eda144d72273a1c2a330cabea2481ccca9e3
+
+COCOAPODS: 1.9.1

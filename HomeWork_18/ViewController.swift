@@ -1,19 +1,11 @@
-//
-//  ViewController.swift
-//  HomeWork_18
-//
-//  Created by Roman Kuzmich on 29.05.2021.
-//
-
 import UIKit
+import RealmSwift
 
 class ViewController: UIViewController {
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+//        HumanGenerator.shared.addRandomHumans(count: 100)
     }
-
-
 }
 
